@@ -14,4 +14,4 @@
 
 
 Homework: youtube videos async/await en websockets  
-          JSON data
+          JSON data, how to put data in SQL
